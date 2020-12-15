@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a _chill_ person.
+I **don't** like to party. Please don't invite me to one.
+I do like to play games, but **not** _among us_.
