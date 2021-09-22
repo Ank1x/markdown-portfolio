@@ -1,5 +1,9 @@
-## Goals
+## Current Goals
 
-- Getting used to Github Flow
-- Learning Web development with Javascript
-- Creating media centric websites
+- Learning HTML/ CSS 
+- Learning JavaScript 
+- Building websites with HTML/ CSS/ client-side JavaScript
+
+### Long-term Goals
+- NodeJS
+- Backend development on NodeJS 
